@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Car</string>
+    <string name="detalls_et_model_hint">Detalls</string>
+    <string name="detalls_et_color_hint">Color</string>
+    <string name="detalls_et_dbl_hint">Distance Pre Letter</string>
+    <string name="detalls_et_description_hint">Description</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="tv_model">tv_model</string>
+    <string name="tv_color">tv_color</string>
+    <string name="tv_debl">tv_debl</string>
+</resources>
